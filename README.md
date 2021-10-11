@@ -1,4 +1,12 @@
-### Hi there 👋
+Hi there 👋
+- 🔭 I’m currently working on WinUtil
+- 🌱 I’m currently learning how to survive
+- 💬 Ask me about batch files
+- 📫 How to reach me: Twitter: <a href="https://twitter.com/stevewastaken__?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">@stevewastaken__</a>
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I don't know how to breathe
+
+![Metrics](https://metrics.lecoq.io/SteveYT77?template=terminal&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&repositories.featured=steveyt77%2Fwinutil&config.timezone=America%2FBogota)
 
 <!--
 **SteveYT77/SteveYT77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
