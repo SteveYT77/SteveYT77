@@ -6,7 +6,7 @@ Hi there 👋
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't know how to breathe
 
-![Metrics](https://metrics.lecoq.io/SteveYT77?template=terminal&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&repositories.featured=steveyt77%2Fwinutil&config.timezone=America%2FBogota)
+![Metrics](https://metrics.lecoq.io/SteveeWasTaken?template=classic&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&repositories.featured=steveewastaken%2Fwinutil%2C%20steveewastaken%2Ffnf-modpack-frenzy&config.timezone=America%2FBogota)
 
 <!--
 **SteveYT77/SteveYT77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
