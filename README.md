@@ -1,12 +1,10 @@
 Hi there 👋
-- 🔭 I’m currently working on WinUtil
-- 🌱 I’m currently learning how to survive
-- 💬 Ask me about batch files
+- 🔭 I’m currently working on FNF Modpack Frenzy: Reimagined 
+- 🌱 I’m currently learning YNA coding
+- 💬 Ask me about YNA, batch or FNF related stuff.
 - 📫 How to reach me: Twitter: <a href="https://twitter.com/stevewastaken__?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">@stevewastaken__</a>
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I don't know how to breathe
-
-![Metrics](https://metrics.lecoq.io/SteveeWasTaken?template=classic&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&repositories.featured=steveewastaken%2Fwinutil%2C%20steveewastaken%2Ffnf-modpack-frenzy&config.timezone=America%2FBogota)
+- 😄 Pronouns: He/They
+- ⚡ Fun fact: I love rythm games, coding, and I'm pan.
 
 <!--
 **SteveYT77/SteveYT77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
