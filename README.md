@@ -6,6 +6,8 @@ Hi there 👋
 - 😄 Pronouns: He/They
 - ⚡ Fun fact: I love rythm games, coding, and I'm pan.
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/907376451601432596)](https://discord.com/users/907376451601432596)
+
 <!--
 **SteveYT77/SteveYT77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
