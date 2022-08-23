@@ -6,8 +6,5 @@ Hi there 👋
 - 😄 Pronouns: He/They
 - ⚡ Fun facts: I love rythm games, coding, and I'm pan.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteveeWasTaken&show_icons=true&theme=rose_pine)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteveeWasTaken)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/907376451601432596)](https://discord.com/users/907376451601432596)
+[![Join our Discord server!](https://invidget.switchblade.xyz/PkAHaTbqMA)](http://discord.gg/PkAHaTbqMA)
