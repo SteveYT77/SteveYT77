@@ -6,5 +6,5 @@ Hi there 👋
 - 😄 Pronouns: They/Them
 - ⚡ Fun facts: I love rythm games, coding, and I'm pan.
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/907376451601432596)](https://discord.com/users/907376451601432596)
+[![Discord Presence](https://lanyard.cnrad.dev/api/907376451601432596?hideDiscrim=true&hideBadges=true&idleMessage=What+are+you+looking+at%3F+I%27m+not+doing+much+at+the+moment.&borderRadius=25px)](https://discord.com/users/907376451601432596)
 [![Join our Discord server!](https://invidget.switchblade.xyz/PkAHaTbqMA)](http://discord.gg/PkAHaTbqMA)
